@@ -1,0 +1,64 @@
+Date,Client,Fund,Asset_Class,Ticker,Shares,Price,AUM,Daily_Return,Benchmark_Return
+2024-01-02,Apex Pension Fund,iShares Core S&P 500,Equity,IVV,15000,478.50,7177500,0.0052,0.0048
+2024-01-02,Apex Pension Fund,iShares US Treasury Bond,Fixed Income,GOVT,30000,24.10,723000,-0.0008,-0.0005
+2024-01-02,Apex Pension Fund,iShares Gold Trust,Commodities,IAU,10000,37.20,372000,0.0015,0.0012
+2024-01-02,Meridian Endowment,iShares MSCI Emerging Markets,Equity,EEM,20000,41.30,826000,0.0031,0.0028
+2024-01-02,Meridian Endowment,iShares Core US Aggregate Bond,Fixed Income,AGG,25000,96.80,2420000,-0.0012,-0.0009
+2024-01-02,Meridian Endowment,iShares Global Clean Energy,Equity,ICLN,18000,16.40,295200,0.0068,0.0055
+2024-01-02,Crescent SWF,iShares Core S&P 500,Equity,IVV,50000,478.50,23925000,0.0052,0.0048
+2024-01-02,Crescent SWF,iShares MSCI World,Equity,URTH,35000,112.30,3930500,0.0041,0.0039
+2024-01-02,Crescent SWF,iShares Short Treasury Bond,Fixed Income,SHV,40000,110.50,4420000,0.0002,0.0001
+2024-01-03,Apex Pension Fund,iShares Core S&P 500,Equity,IVV,15000,481.20,7218000,0.0056,0.0050
+2024-01-03,Apex Pension Fund,iShares US Treasury Bond,Fixed Income,GOVT,30000,24.08,722400,-0.0008,-0.0006
+2024-01-03,Apex Pension Fund,iShares Gold Trust,Commodities,IAU,10000,37.45,374500,0.0067,0.0060
+2024-01-03,Meridian Endowment,iShares MSCI Emerging Markets,Equity,EEM,20000,41.55,831000,0.0060,0.0055
+2024-01-03,Meridian Endowment,iShares Core US Aggregate Bond,Fixed Income,AGG,25000,96.65,2416250,-0.0015,-0.0012
+2024-01-03,Meridian Endowment,iShares Global Clean Energy,Equity,ICLN,18000,16.55,297900,0.0091,0.0075
+2024-01-03,Crescent SWF,iShares Core S&P 500,Equity,IVV,50000,481.20,24060000,0.0056,0.0050
+2024-01-03,Crescent SWF,iShares MSCI World,Equity,URTH,35000,112.75,3946250,0.0040,0.0038
+2024-01-03,Crescent SWF,iShares Short Treasury Bond,Fixed Income,SHV,40000,110.52,4420800,0.0002,0.0001
+2024-01-04,Apex Pension Fund,iShares Core S&P 500,Equity,IVV,15000,479.00,7185000,-0.0046,-0.0044
+2024-01-04,Apex Pension Fund,iShares US Treasury Bond,Fixed Income,GOVT,30000,24.14,724200,0.0025,0.0022
+2024-01-04,Apex Pension Fund,iShares Gold Trust,Commodities,IAU,10000,37.30,373000,-0.0040,-0.0038
+2024-01-04,Meridian Endowment,iShares MSCI Emerging Markets,Equity,EEM,20000,41.20,824000,-0.0084,-0.0079
+2024-01-04,Meridian Endowment,iShares Core US Aggregate Bond,Fixed Income,AGG,25000,96.80,2420000,0.0015,0.0013
+2024-01-04,Meridian Endowment,iShares Global Clean Energy,Equity,ICLN,18000,16.30,293400,-0.0152,-0.0130
+2024-01-04,Crescent SWF,iShares Core S&P 500,Equity,IVV,50000,479.00,23950000,-0.0046,-0.0044
+2024-01-04,Crescent SWF,iShares MSCI World,Equity,URTH,35000,112.20,3927000,-0.0049,-0.0046
+2024-01-04,Crescent SWF,iShares Short Treasury Bond,Fixed Income,SHV,40000,110.53,4421200,0.0001,0.0001
+2024-01-05,Apex Pension Fund,iShares Core S&P 500,Equity,IVV,15000,482.10,7231500,0.0065,0.0061
+2024-01-05,Apex Pension Fund,iShares US Treasury Bond,Fixed Income,GOVT,30000,24.10,723000,-0.0017,-0.0014
+2024-01-05,Apex Pension Fund,iShares Gold Trust,Commodities,IAU,10000,37.60,376000,0.0080,0.0075
+2024-01-05,Meridian Endowment,iShares MSCI Emerging Markets,Equity,EEM,20000,41.65,833000,0.0109,0.0100
+2024-01-05,Meridian Endowment,iShares Core US Aggregate Bond,Fixed Income,AGG,25000,96.72,2418000,-0.0008,-0.0006
+2024-01-05,Meridian Endowment,iShares Global Clean Energy,Equity,ICLN,18000,16.50,297000,0.0123,0.0105
+2024-01-05,Crescent SWF,iShares Core S&P 500,Equity,IVV,50000,482.10,24105000,0.0065,0.0061
+2024-01-05,Crescent SWF,iShares MSCI World,Equity,URTH,35000,113.00,3955000,0.0071,0.0068
+2024-01-05,Crescent SWF,iShares Short Treasury Bond,Fixed Income,SHV,40000,110.54,4421600,0.0001,0.0001
+2024-01-08,Apex Pension Fund,iShares Core S&P 500,Equity,IVV,15000,484.50,7267500,0.0050,0.0047
+2024-01-08,Apex Pension Fund,iShares US Treasury Bond,Fixed Income,GOVT,30000,24.07,722100,-0.0012,-0.0010
+2024-01-08,Apex Pension Fund,iShares Gold Trust,Commodities,IAU,10000,37.75,377500,0.0040,0.0038
+2024-01-08,Meridian Endowment,iShares MSCI Emerging Markets,Equity,EEM,20000,41.80,836000,0.0036,0.0033
+2024-01-08,Meridian Endowment,iShares Core US Aggregate Bond,Fixed Income,AGG,25000,96.60,2415000,-0.0012,-0.0010
+2024-01-08,Meridian Endowment,iShares Global Clean Energy,Equity,ICLN,18000,16.62,299160,0.0073,0.0062
+2024-01-08,Crescent SWF,iShares Core S&P 500,Equity,IVV,50000,484.50,24225000,0.0050,0.0047
+2024-01-08,Crescent SWF,iShares MSCI World,Equity,URTH,35000,113.40,3969000,0.0035,0.0034
+2024-01-08,Crescent SWF,iShares Short Treasury Bond,Fixed Income,SHV,40000,110.55,4422000,0.0001,0.0001
+2024-01-09,Apex Pension Fund,iShares Core S&P 500,Equity,IVV,15000,483.20,7248000,-0.0027,-0.0025
+2024-01-09,Apex Pension Fund,iShares US Treasury Bond,Fixed Income,GOVT,30000,24.10,723000,0.0012,0.0010
+2024-01-09,Apex Pension Fund,iShares Gold Trust,Commodities,IAU,10000,37.62,376200,-0.0034,-0.0032
+2024-01-09,Meridian Endowment,iShares MSCI Emerging Markets,Equity,EEM,20000,41.65,833000,-0.0036,-0.0034
+2024-01-09,Meridian Endowment,iShares Core US Aggregate Bond,Fixed Income,AGG,25000,96.72,2418000,0.0012,0.0010
+2024-01-09,Meridian Endowment,iShares Global Clean Energy,Equity,ICLN,18000,16.55,297900,-0.0042,-0.0035
+2024-01-09,Crescent SWF,iShares Core S&P 500,Equity,IVV,50000,483.20,24160000,-0.0027,-0.0025
+2024-01-09,Crescent SWF,iShares MSCI World,Equity,URTH,35000,113.10,3958500,-0.0026,-0.0025
+2024-01-09,Crescent SWF,iShares Short Treasury Bond,Fixed Income,SHV,40000,110.55,4422000,0.0000,0.0000
+2024-01-10,Apex Pension Fund,iShares Core S&P 500,Equity,IVV,15000,486.00,7290000,0.0058,0.0054
+2024-01-10,Apex Pension Fund,iShares US Treasury Bond,Fixed Income,GOVT,30000,24.05,721500,-0.0021,-0.0018
+2024-01-10,Apex Pension Fund,iShares Gold Trust,Commodities,IAU,10000,37.90,379000,0.0074,0.0070
+2024-01-10,Meridian Endowment,iShares MSCI Emerging Markets,Equity,EEM,20000,42.00,840000,0.0084,0.0079
+2024-01-10,Meridian Endowment,iShares Core US Aggregate Bond,Fixed Income,AGG,25000,96.58,2414500,-0.0014,-0.0012
+2024-01-10,Meridian Endowment,iShares Global Clean Energy,Equity,ICLN,18000,16.70,300600,0.0091,0.0078
+2024-01-10,Crescent SWF,iShares Core S&P 500,Equity,IVV,50000,486.00,24300000,0.0058,0.0054
+2024-01-10,Crescent SWF,iShares MSCI World,Equity,URTH,35000,113.80,3983000,0.0062,0.0060
+2024-01-10,Crescent SWF,iShares Short Treasury Bond,Fixed Income,SHV,40000,110.56,4422400,0.0001,0.0001
